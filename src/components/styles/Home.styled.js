@@ -116,12 +116,12 @@ export const Social = styled.a`
 
 export const Quote = styled.span`
   position: absolute;
-  right: 25%;
+  right: 10%;
   bottom: 30%;
   color: #94929d;
-  font-size: 0.625rem;
-  letter-spacing: 0.125rem;
-
+  font-size: 1rem;
+  letter-spacing: 0.175rem;
+  font-weight: 600;
   @media all and (max-width: ${({ theme }) => theme.breakpoints.md}) {
     display: none;
   }
