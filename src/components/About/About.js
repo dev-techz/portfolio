@@ -28,20 +28,21 @@ const About = () => {
         </AboutImageContainer>
         <AboutDetailsContainer>
           <StyledParagraph>
-            My name is Dev Kumar, currently pursuing Bachelor of
-            Technology in Computer Science & Engineering from Technocracts Institute of Technology in Bhopal Madhya Pradesh. I
-            am a passionate Full Stack developer .
+            My name is Dev Kumar, I graduate as Bachelor of Technology in
+            Computer Science & Engineering from Technocrats Institute of
+            Technology in Bhopal, Madhya Pradesh. I am a passionate Full Stack
+            Web developer .
           </StyledParagraph>
           <StyledParagraph>
             I love to design and create responsive websites or web apps from
             scratch. The technologies, tools and languages I am using to build
             my projects are HTML, CSS, JavaScript, REACT JS, TailwindCSS,
-            Bootstrap, Git and GitHub, Figma, Adobe XD and VS Code.
+            Bootstrap, Git and GitHub, Figma and VS Code.
           </StyledParagraph>
           <StyledParagraph>
-            I have eagerness to learn something new every day and I love to
-            share my knowledge to my fellow friends and developers. And I am
-            looking forward to talk with you!
+            I have enthusiastic to learn something new every day and I love to
+            share my knowledge. And I am
+            looking forward to meet you!
           </StyledParagraph>
           <Resume>
             <ResumeLink

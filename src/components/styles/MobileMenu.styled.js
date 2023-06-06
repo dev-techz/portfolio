@@ -44,9 +44,9 @@ export const MobileMenuList = styled.ul`
 `;
 
 export const MobileMenuLink = styled(MobileMenuNavLink)`
-  font-family: ${({ theme }) => theme.fonts.cardo};
+  font-family: ubuntu,${({ theme }) => theme.fonts.cardo};
   font-size: 2rem;
-  font-weight: 500;
+  font-weight: 300;
   transition: 0.3s ease;
   text-transform: uppercase;
   color: #fff;

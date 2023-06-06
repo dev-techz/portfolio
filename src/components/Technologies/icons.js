@@ -10,7 +10,6 @@ import npm from "../../assets/technologies/npm.svg";
 import git from "../../assets/technologies/git.svg";
 import github from "../../assets/technologies/github.svg";
 import figma from "../../assets/technologies/figma.svg";
-import adobexd from "../../assets/technologies/adobexd.svg";
 import vscode from "../../assets/technologies/visual-studio-code.svg";
 
 export const iconsData = [
@@ -77,11 +76,6 @@ export const iconsData = [
   },
   {
     id: 14,
-    icon: adobexd,
-    name: "Adobe XD",
-  },
-  {
-    id: 15,
     icon: vscode,
     name: "Visual Studio Code",
   },

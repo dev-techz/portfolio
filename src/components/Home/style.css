@@ -8,7 +8,7 @@
     content: "design";
   }
   50% {
-    content: "create";
+    content: "build";
   }
 
   100% {
@@ -17,7 +17,6 @@
   }
 }
 
-/* * glitch  */
 .responsive {
   display: inline-block;
   animation: stretch 5s cubic-bezier(0.4, 1.4, 0.75, 0.9) infinite;
